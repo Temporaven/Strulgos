@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "limits": "c",
+        "stdio.h": "c",
+        "kruskull.h": "c",
+        "heapskull.h": "c"
+    },
+    "editor.fontSize": 16
+}

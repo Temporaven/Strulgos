@@ -1,6 +1,7 @@
 Welcome to Strulgos!   
 -   This entire folder aims to equip you the practical knowledge necessary for Data Structures & Algorithms.
-NOTE: Only codes are available throughout this entire folder. If you want to know more about the theoretical concept of each data structure, I highly recommend visiting geeksforgeeks.
+* NOTE: Only codes are available throughout this entire folder. If you want to know more about the theoretical concept of each data structure, I highly recommend visiting geeksforgeeks.
+
 
 TIP:
 *   Before starting your journey, make sure that you have a good understanding of pointers.

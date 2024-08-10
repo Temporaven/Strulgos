@@ -8,14 +8,14 @@ TIP:
 
 
 Navigation:
-a)  Level 0 - ADT Array List, Linked-List, and Cursor-Based List
-b)  Level 1 - Stack
-c)  Level 2 - Queue
-c)  Level 3 - Sets - UID, Bit-Vector, and Computer Word
-d)  Level 4 - Dictionaries - Open and Closed
-e)  Level 5 - Binary Search Tree (BST)
-f)  Level 6 - Heap - Paritally Ordered Tree (POT), Heapsort
-g)  Level 7 - Graphs - Implementations, Traversals, and Algorithms
+Level 0 - ADT Array List, Linked-List, and Cursor-Based List
+Level 1 - Stack
+Level 2 - Queue
+Level 3 - Sets - UID, Bit-Vector, and Computer Word
+Level 4 - Dictionaries - Open and Closed
+Level 5 - Binary Search Tree (BST)
+Level 6 - Heap - Paritally Ordered Tree (POT), Heapsort
+Level 7 - Graphs - Implementations, Traversals, and Algorithms
 
 
 Special thanks to these people that made my DSA journey less painful:
